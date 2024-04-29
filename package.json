@@ -1,0 +1,9 @@
+{
+  "uuid": "adc14d21-192d-4e9b-b20d-6bfd4fe4e307",
+  "creator": {
+    "version": "3.7.3"
+  },
+  "dependencies": {
+    "jshashes": "^1.0.8"
+  }
+}
